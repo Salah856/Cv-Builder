@@ -7,9 +7,9 @@
 # How to build your cv
 
  1. Input data form
-![enter image description here](https://go.aws/30uxHAw)
+![Input data form](https://go.aws/30uxHAw)
  2.  Choose your cv template
-![enter image description here](https://go.aws/3f9APG5)
+![Choose your cv template](https://go.aws/3f9APG5)
  3. Save pdf to click print button
 
 ---
@@ -29,7 +29,7 @@
 ### Author  :
 Sabuj Hasan Sarker
 ### Live :
-[Corona Update](https://cv-builder-sabuj.netlify.com/)
+[Cv Builder](https://cv-builder-sabuj.netlify.com/)
 
 ---
    
